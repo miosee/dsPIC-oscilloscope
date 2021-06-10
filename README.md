@@ -16,4 +16,4 @@ On veut donc réaliser un système à micro-contrôleur qui sera piloté par un 
 Les échantillons obtenus seront envoyés au PC qui les affichera.
 
 ## Evolution du projet
-[L'évolution du projet](https://github.com/miosee/dsPIC-oscilloscope/wiki/Evolution-du-projet) est décrite dans le wiki. Il contient également une explication détaillée des différents blocs fonctionnels du système.
+[La méthodologie utilisée](https://github.com/miosee/dsPIC-oscilloscope/wiki/Méthodologie-utilisée) est décrite dans le wiki. Il contient également une explication détaillée des différents blocs fonctionnels du système.
